@@ -1,1 +1,8 @@
-opencv-python-headless==5.0.0.93
+flask
+scikit-learn
+numpy
+scipy
+joblib
+pillow
+tldextract
+opencv-python-headless
